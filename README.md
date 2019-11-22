@@ -1,2 +1,2 @@
 # maven
-## doreta po ban snapa##
+## changed by Doreta
